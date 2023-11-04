@@ -19,7 +19,7 @@ I am a highly experienced software developer with an extensive understanding of 
 &nbsp;
 &nbsp;
 <a href="https://www.djangoproject.com">
-    <img src="https://icon2.cleanpng.com/20180711/fol/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913c5b252.5696191815313042118098.jpg" width="40">
+    <img src="https://o.remove.bg/downloads/f897bd30-48fa-47b9-8f12-22fa0750b908/django_fondo-removebg-preview.png" width="40">
 </a>
 &nbsp;
 &nbsp;
