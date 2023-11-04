@@ -27,16 +27,17 @@ I am a highly experienced software developer with an extensive understanding of 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40">
 </a>
 
-**jgomezfl/jgomezfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Comunicación efectiva.
+- Gran capacidad de enseñar y aprender.
+- Contribución al ambiente de trabajo positivo.
+- Integración y entrega continua (CI/CD).
+- Resolución de problemas y optimización de rendimiento.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Bicisafe](https://github.com/jgomezfl/BiciSafe)
+Bicisafe es una innovadora aplicación de navegación diseñada específicamente para ciclistas que desean una forma segura, eficiente y agradable de moverse en bicicleta por la ciudad. Esta aplicación proporciona una solución integral que ayuda a los ciclistas a planificar sus rutas, navegar por las calles de la ciudad y mantenerse informados sobre condiciones en tiempo real.
 
+### [UniShop](https://github.com/7BatStrokes/Rappi_un)
+UniShop es una aplicación de entrega y servicio a pedido diseñada para estudiantes universitarios y los pequeños kioskos y tiendas locales ubicados en el campus. Nuestra plataforma conecta a estudiantes que necesitan productos y servicios con los kioskos cercanos que pueden satisfacer esas necesidades. UniShop facilita el acceso a alimentos, suministros de estudio, artículos de uso diario y más, brindando comodidad y apoyo a la comunidad universitaria.
