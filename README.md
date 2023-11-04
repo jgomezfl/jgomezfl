@@ -1,43 +1,15 @@
-# ¡Hi! 👋, I'm John Freddy Gómez Flórez
 
-I am a highly experienced software developer with an extensive understanding of the latest technologies, committed to creating efficient technological solutions. My expertise lies in programming and tackling technical challenges to develop innovative solutions.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johngomezflorez) 
 
-## Tools
-<a href="https://angular.io">
-    <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="40">
-</a>
-&nbsp;
-<a href="https://es.react.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40">
-</a>
-&nbsp;
-<a href="https://spring.io">
-    <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" width="40">
-</a>
-&nbsp;
-<a href="https://www.djangoproject.com">
-    <img src="https://o.remove.bg/downloads/f897bd30-48fa-47b9-8f12-22fa0750b908/django_fondo-removebg-preview.png" width="40">
-</a>
-&nbsp;
-<a href="https://www.python.org">
-    <img src="https://o.remove.bg/downloads/dbb40a1d-1919-496a-a857-338e3736c38f/pythonLogo-removebg-preview.png" width="40">
-</a>
-&nbsp;
-<a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40">
-</a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jgomezfl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jgomezfl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgomezfl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Skills
-- Effective communication. :speech_balloon:
-- Strong ability to teach and learn. :mortar_board:
-- Contribution to positive work environment. :grinning:
-- Continuous integration and delivery (CI/CD). :arrows_counterclockwise:
-- Problem solving and performance optimization. :gear:
+---
+[![](https://visitcount.itsvg.in/api?id=jgomezfl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured projects
-
-### [Bicisafe](https://github.com/jgomezfl/BiciSafe)
-Bicisafe is an innovative navigation application designed specifically for cyclists who want a safe, efficient and enjoyable way to get around the city by bicycle. This app provides a comprehensive solution that helps cyclists plan their routes, navigate city streets and stay informed about conditions in real time.
-
-### [UniShop](https://github.com/7BatStrokes/Rappi_un)
-UniShop is an on-demand delivery and service application designed for college students and the small local kiosks and stores located on campus. Our platform connects students in need of products and services with nearby kiosks that can meet those needs. UniShop facilitates access to food, study supplies, everyday items and more, providing convenience and support to the campus community.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
