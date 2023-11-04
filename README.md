@@ -6,8 +6,8 @@ I am a highly experienced software developer with an extensive understanding of 
 <a href="https://angular.io">
     <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="50">
 </a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img src="https://es.react.dev/images/og-home.png" width="50">
+<a href="https://es.react.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50">
 </a>
 <a href="https://angular.io">
     <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="50">
