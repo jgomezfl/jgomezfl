@@ -28,16 +28,16 @@ I am a highly experienced software developer with an extensive understanding of 
 </a>
 
 ## Skills
-- Comunicación efectiva. :speech_balloon:
-- Gran capacidad de enseñar y aprender. :mortar_board:
-- Contribución al ambiente de trabajo positivo. :grinning:
-- Integración y entrega continua (CI/CD). :arrows_counterclockwise:
-- Resolución de problemas y optimización de rendimiento. :gear:
+- Effective communication. :speech_balloon:
+- Strong ability to teach and learn. :mortar_board:
+- Contribution to positive work environment. :grinning:
+- Continuous integration and delivery (CI/CD). :arrows_counterclockwise:
+- Problem solving and performance optimization. :gear:
 
 ## Featured projects
 
 ### [Bicisafe](https://github.com/jgomezfl/BiciSafe)
-Bicisafe es una innovadora aplicación de navegación diseñada específicamente para ciclistas que desean una forma segura, eficiente y agradable de moverse en bicicleta por la ciudad. Esta aplicación proporciona una solución integral que ayuda a los ciclistas a planificar sus rutas, navegar por las calles de la ciudad y mantenerse informados sobre condiciones en tiempo real.
+Bicisafe is an innovative navigation application designed specifically for cyclists who want a safe, efficient and enjoyable way to get around the city by bicycle. This app provides a comprehensive solution that helps cyclists plan their routes, navigate city streets and stay informed about conditions in real time.
 
 ### [UniShop](https://github.com/7BatStrokes/Rappi_un)
-UniShop es una aplicación de entrega y servicio a pedido diseñada para estudiantes universitarios y los pequeños kioskos y tiendas locales ubicados en el campus. Nuestra plataforma conecta a estudiantes que necesitan productos y servicios con los kioskos cercanos que pueden satisfacer esas necesidades. UniShop facilita el acceso a alimentos, suministros de estudio, artículos de uso diario y más, brindando comodidad y apoyo a la comunidad universitaria.
+UniShop is an on-demand delivery and service application designed for college students and the small local kiosks and stores located on campus. Our platform connects students in need of products and services with nearby kiosks that can meet those needs. UniShop facilitates access to food, study supplies, everyday items and more, providing convenience and support to the campus community.
