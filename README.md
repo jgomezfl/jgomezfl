@@ -1,4 +1,4 @@
-### ¡Hola! 👋
+# ¡Hola! 👋
 
 Soy John Gómez, , un apasionado desarrollador de software con experiencia en [Tecnologías clave] y un fuerte compromiso con la creación de soluciones tecnológicas efectivas. Me encanta la programación y disfruto enfrentando desafíos técnicos para encontrar soluciones creativas.
 
