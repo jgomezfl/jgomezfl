@@ -24,7 +24,7 @@ I am a highly experienced software developer with an extensive understanding of 
 &nbsp;
 &nbsp;
 <a href="https://www.python.org">
-    <img src="https://www.python.org/static/img/python-logo.png" width="40">
+    <img src="https://c0.klipartz.com/pngpicture/342/165/gratis-png-lenguaje-de-programacion-de-alto-nivel-de-python-lenguaje.png" width="40">
 </a>
 
 **jgomezfl/jgomezfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
