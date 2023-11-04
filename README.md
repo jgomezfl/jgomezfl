@@ -28,11 +28,11 @@ I am a highly experienced software developer with an extensive understanding of 
 </a>
 
 ## Skills
-- Comunicación efectiva.
-- Gran capacidad de enseñar y aprender.
-- Contribución al ambiente de trabajo positivo.
-- Integración y entrega continua (CI/CD).
-- Resolución de problemas y optimización de rendimiento.
+- Comunicación efectiva. <i class="fas fa-comments"></i>
+- Gran capacidad de enseñar y aprender. <i class="fas fa-graduation-cap"></i>
+- Contribución al ambiente de trabajo positivo. <i class="fas fa-smile"></i>
+- Integración y entrega continua (CI/CD). <i class="fas fa-code-branch"></i>
+- Resolución de problemas y optimización de rendimiento. <i class="fas fa-cogs"></i>
 
 ## Featured projects
 
