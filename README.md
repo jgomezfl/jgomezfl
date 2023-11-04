@@ -6,6 +6,15 @@ I am a highly experienced software developer with an extensive understanding of 
 <a href="https://angular.io">
     <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="50">
 </a>
+<a href="https://es.react.dev">
+    <img src="https://es.react.dev/images/og-home.png" width="50">
+</a>
+<a href="https://angular.io">
+    <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="50">
+</a>
+<a href="https://angular.io">
+    <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="50">
+</a>
 
 **jgomezfl/jgomezfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
