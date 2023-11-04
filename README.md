@@ -1,16 +1,9 @@
-# ¡Hola! 👋
+# ¡Hi! 👋
 
-Soy John Gómez, , un apasionado desarrollador de software con experiencia en [Tecnologías clave] y un fuerte compromiso con la creación de soluciones tecnológicas efectivas. Me encanta la programación y disfruto enfrentando desafíos técnicos para encontrar soluciones creativas.
+I am a highly experienced software developer with an extensive understanding of the latest technologies, committed to creating efficient technological solutions. My expertise lies in programming and tackling technical challenges to develop innovative solutions.
 
-## Mis Habilidades
-
-- Desarrollo web Front con Angular, React, Vue.
-- Desarrollo web Back con Django, SpringBoot.
-- Desarrollo de aplicaciones móviles con Android Studio.
-- Diseño y arquitectura de software escalable.
-- Integración y entrega continua (CI/CD).
-- Resolución de problemas y optimización de rendimiento.
-- Trabajo en equipo.
+## Tools
+[![Angular](https://angular.io/assets/images/logos/angular/shield-large.svg)](https://angular.io)
 
 **jgomezfl/jgomezfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
