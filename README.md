@@ -1,4 +1,4 @@
-# ¡Hi! 👋
+# ¡Hi! 👋, I'm John Freddy Gómez Flórez
 
 I am a highly experienced software developer with an extensive understanding of the latest technologies, committed to creating efficient technological solutions. My expertise lies in programming and tackling technical challenges to develop innovative solutions.
 
